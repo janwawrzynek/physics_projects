@@ -159,8 +159,5 @@ plt.title('d2t of cos(t) h = 2.220446049250313e-16')
 #plt.xlabel("step size")
 #plt.ylabel("error size")
 plt.show()
-#As you can see I was having issues getting my plots to label the axes. 
-#I do not understand what is wrong as I have done this many times before.
-#Yet for some reason they do not work.
-#I included the code that should plot them.
+
 
